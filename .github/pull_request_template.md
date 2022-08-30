@@ -2,22 +2,22 @@
 
 ### Feature
 
-- [EXAMPLE] feat: add new player character
-- [EXAMPLE] asset: add player clothes
+- [EXAMPLE] Add new player character
+- [EXAMPLE] Add player clothes art assets
 
 ### Refactor
 
-- [EXAMPLE] refactor: make player faster
+- [EXAMPLE] Make enemies spawn faster
 
 ### Bug Fix
 
-- [EXAMPLE] fix: player walks through walls
+- [EXAMPLE] Fix player walking through walls
 
 ### Misc
 
-- [EXAMPLE] chore: update deps
-- [EXAMPLE] style: fix code style
-- [EXAMPLE] git: add venv to gitignore
+- [EXAMPLE] Update deps
+- [EXAMPLE] Fix code style in legacy code
+- [EXAMPLE] Add `venv` to gitignore
 
 ## Additional context
 
