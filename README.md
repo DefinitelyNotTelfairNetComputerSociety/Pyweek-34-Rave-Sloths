@@ -17,7 +17,11 @@
 
 ## Other Dependencies
 
+<div align="center">
+
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-required-blue)](https://www.ffmpeg.org/download.html)
+
+</div>
 
 ## Python venv setup
 
