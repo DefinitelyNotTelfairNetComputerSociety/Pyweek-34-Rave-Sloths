@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Python Check](https://github.com/DefinitelyNotTelfairNetComputerSociety/Pyweek-34-Rave-Sloths/actions/workflows/python_lint_check.yml/badge.svg)](https://github.com/DefinitelyNotTelfairNetComputerSociety/Pyweek-34-Rave-Sloths/actions/workflows/python_int_check.yml)
+[![Python Check](https://github.com/DefinitelyNotTelfairNetComputerSociety/Pyweek-34-Rave-Sloths/actions/workflows/python_lint_check.yml/badge.svg)](https://github.com/DefinitelyNotTelfairNetComputerSociety/Pyweek-34-Rave-Sloths/actions/workflows/python_lint_check.yml)
 
 </div>
 
