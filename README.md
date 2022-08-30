@@ -80,6 +80,6 @@ deactivate
 
 ### Install Dependencies
 
-With venv activated, `pip3 install -r requirements.txt`
+With venv activated, Windows `pip install -r requirements.txt` Linux `pip3 install -r requirements.txt`
 
 </details>
