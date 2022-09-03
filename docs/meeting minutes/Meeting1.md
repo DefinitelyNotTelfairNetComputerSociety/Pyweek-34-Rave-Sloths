@@ -20,18 +20,28 @@ Attendance:
 
 ### Game Ideas
 
-- Agent X
-  - (Tower Defense) Bloons TD6 Ripoff
-  - (Arcade) Snake io but eating antibodies/virus
-  - (Top Down) Avoid / Escape from enemies, reach goal
-- Polarity
-  - (Platformer) Switch polarity of shoes
-- Rock Bottom
-  - (Hack n Slash) You are a pet rock, kill stuff, grab rock waifu (Peach like)
-- Finding Peace
-  - (Hack n Slash) You're a priest, you hit evil spirits and make them go into the light
-  - (Casual, Farming) Grow crops, tend to animals, ???, Profit
-- The Red Planet - (Bullet Hell) Defend your red planet from invading aliens
+Agent X
+
+- (Tower Defense) Bloons TD6 Ripoff
+- (Arcade) Snake io but eating antibodies/virus
+- (Top Down) Avoid / Escape from enemies, reach goal
+
+Polarity
+
+- (Platformer) Switch polarity of shoes
+
+Rock Bottom
+
+- (Hack n Slash) You are a pet rock, kill stuff, grab rock waifu (Peach like)
+
+Finding Peace
+
+- (Hack n Slash) You're a priest, you hit evil spirits and make them go into the light
+- (Casual, Farming) Grow crops, tend to animals, ???, Profit
+
+The Red Planet
+
+- (Bullet Hell) Defend your red planet from invading aliens
 
 ### Structure
 
