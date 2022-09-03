@@ -1,3 +1,5 @@
+# TEAM MERGED AND MOVED TO [https://github.com/MrTanoshii/PyWeek-34](https://github.com/MrTanoshii/PyWeek-34)
+
 # Pyweek-34-Rave-Sloths
 
 <div align="center">
